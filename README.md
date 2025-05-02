@@ -27,7 +27,9 @@ helpers/
   - index.js // Lógica del cálculo
 
 App.jsx
+
 main.jsx
+
 index.css // Estilos con Tailwind
 
 ## Instalación
